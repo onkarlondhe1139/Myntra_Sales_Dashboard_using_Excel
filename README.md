@@ -2,6 +2,8 @@
 
 <img width="2046" height="1240" alt="image" src="https://github.com/user-attachments/assets/69637242-0803-4b39-96ea-7b2ba5b7bf8f" />
 
+# Myntra Sales Dashboard – Key Insights
+
 • Built interactive Excel dashboard using Pivot Tables, Slicers, KPI Cards, Maps, and Charts
 
 • Enabled dynamic filtering by Month, Seller, and Product Category
@@ -10,7 +12,6 @@
 
 • Demonstrates skills in Data Cleaning, Data Modeling, Visualization, and Business Analysis
 
-# Myntra Sales Dashboard – Key Insights
 
 # Business Performance
 
